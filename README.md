@@ -1,4 +1,4 @@
-# Calculator Project using Jupyter Notebook
+# Calculator Project using Jupyter Notebook and Python
 Welcome to the Calculator Project, a fun and interactive way to perform mathematical calculations using Jupyter Notebook! This project is designed to provide a user-friendly interface for basic arithmetic operations, making math easy and accessible.
 
 ## Table of Contents
