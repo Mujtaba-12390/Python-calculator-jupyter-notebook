@@ -62,6 +62,12 @@ You're all set! Start performing calculations using the Calculator Project.
 ### 5. License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+__________________________________________________________________________________________________________________________________________________________________________________________
+
+We hope you find the Calculator Project useful for your mathematical needs. Feel free to explore, contribute, and make it even better! If you have any questions or suggestions, please don't hesitate to reach out.
+
+Happy calculating!
+
 
 
 
